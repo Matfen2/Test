@@ -54,7 +54,7 @@ section {
 /* Media Queries pour les écrans ≤ 768px */
 @media screen and (max-width: 768px) {
     h1 {
-        font-size: 24px; /* Réduction de la taille du titre */
+        font-size: 20px; /* Réduction de la taille du titre */
     }
 
     nav ul {
